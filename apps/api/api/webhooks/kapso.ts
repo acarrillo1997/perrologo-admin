@@ -1,18 +1,7 @@
 export const runtime = "nodejs";
 
-export default async function handler(request: Request) {
+export async function POST(request: Request) {
   try {
-    if (request.method !== "POST") {
-      return Response.json(
-        {
-          error: "method_not_allowed"
-        },
-        {
-          status: 405
-        }
-      );
-    }
-
     const rawBody = await request.text();
     let body: Record<string, unknown>;
 
@@ -52,4 +41,15 @@ export default async function handler(request: Request) {
       }
     );
   }
+}
+
+export function GET() {
+  return Response.json(
+    {
+      error: "method_not_allowed"
+    },
+    {
+      status: 405
+    }
+  );
 }

@@ -1,6 +1,6 @@
 export const runtime = "nodejs";
 
-export default async function handler() {
+export async function GET() {
   try {
     const { healthPayload } = await import("../src/http-handlers.js");
     return Response.json(healthPayload());
