@@ -22,7 +22,7 @@ async function main() {
 
   const adminEmails = (process.env.ADMIN_EMAILS ?? "")
     .split(",")
-    .map((email) => email.trim())
+    .map((email: string) => email.trim())
     .filter(Boolean);
 
   for (const email of adminEmails) {
