@@ -1,0 +1,26 @@
+{
+  "name": "perrologo",
+  "private": true,
+  "packageManager": "pnpm@10.6.1",
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev --parallel",
+    "lint": "turbo run lint",
+    "test": "turbo run test",
+    "typecheck": "turbo run typecheck",
+    "db:push": "pnpm --filter @perrologo/db db:push",
+    "db:seed": "pnpm --filter @perrologo/db db:seed",
+    "vercel:link:admin": "pnpm dlx vercel link --cwd apps/admin",
+    "vercel:link:api": "pnpm dlx vercel link --cwd apps/api",
+    "vercel:pull:admin": "pnpm dlx vercel env pull .env.local --cwd apps/admin",
+    "vercel:pull:api": "pnpm dlx vercel env pull .env.local --cwd apps/api",
+    "vercel:deploy:admin": "pnpm dlx vercel deploy --cwd apps/admin",
+    "vercel:deploy:api": "pnpm dlx vercel deploy --cwd apps/api",
+    "vercel:deploy:admin:prod": "pnpm dlx vercel deploy --prod --cwd apps/admin",
+    "vercel:deploy:api:prod": "pnpm dlx vercel deploy --prod --cwd apps/api"
+  },
+  "devDependencies": {
+    "turbo": "^2.4.4",
+    "typescript": "^5.7.3"
+  }
+}

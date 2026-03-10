@@ -1,0 +1,497 @@
+# Perrologo 🐶
+### AI Dog Care Assistant on WhatsApp
+
+## 1. Overview
+
+**Perrologo** is an AI-powered dog care assistant that lives inside WhatsApp and helps dog owners care for their pets through simple chat conversations.
+
+Users add a WhatsApp contact and instantly gain access to a 24/7 dog expert that can answer questions, provide training guidance, track health information, and remind owners about important care milestones.
+
+Perrologo is designed to be:
+
+- **Simple** — no apps, no signup, just WhatsApp
+- **Helpful** — instant answers and guidance for dog owners
+- **Personalized** — remembers each dog and their needs
+- **Sticky** — used daily or weekly by pet owners
+
+The long-term vision is for Perrologo to become the **default digital assistant for dog owners**, eventually expanding into a broader **AI pet ecosystem**.
+
+---
+
+# 2. Vision
+
+### Short-Term Vision
+
+Create the easiest way for dog owners to get reliable guidance and support for caring for their pets.
+
+### Long-Term Vision
+
+Build a platform of **AI service operators delivered through messaging**, where Perrologo becomes the first operator focused on the **dog owner identity group**.
+
+Future operators may include:
+
+- BabyBot (first-time parent assistant)
+- RestaurantBot (restaurant growth assistant)
+- FreelancerBot (freelancer operations assistant)
+
+Perrologo becomes the first proof that **AI-native service businesses delivered through messaging** can scale.
+
+---
+
+# 3. Problem
+
+Dog owners frequently experience uncertainty and stress when caring for their pets.
+
+Common questions include:
+
+- What should I feed my dog?
+- Is this food safe?
+- Why is my dog scratching?
+- My dog vomited, what should I do?
+- How do I stop my dog from biting?
+- How much exercise does my dog need?
+
+Currently people rely on:
+
+- Google searches
+- Forums
+- Random advice from friends
+- Expensive vet consultations
+
+These sources are:
+
+- inconsistent
+- slow
+- unreliable
+- not personalized to the dog
+
+Dog owners need **instant, trusted guidance tailored to their dog**.
+
+---
+
+# 4. Solution
+
+Perrologo is a conversational AI assistant that provides:
+
+### 1. Instant Dog Care Advice
+
+Users can ask questions such as:
+
+Can dogs eat mango?
+Why is my dog scratching so much?
+My dog has diarrhea, what should I do?
+
+
+Perrologo provides structured guidance and follow-up questions.
+
+---
+
+### 2. Personalized Dog Profiles
+
+Users create a profile for each dog.
+
+Example:
+
+Name: Luna
+Breed: Golden Retriever
+Age: 8 months
+Weight: 25kg
+
+
+Perrologo then personalizes advice based on the dog's profile.
+
+---
+
+### 3. Health & Care Reminders
+
+Perrologo reminds owners about:
+
+- vaccines
+- grooming
+- flea treatments
+- medication
+- vet visits
+
+Example:
+Reminder: Luna's next vaccine is due in 2 weeks.
+
+
+---
+
+### 4. Training Support
+
+Owners can get help with behavioral issues.
+
+Example:
+My puppy keeps biting.
+How do I stop barking?
+How do I potty train my dog?
+
+
+Perrologo provides step-by-step guidance.
+
+---
+
+### 5. Feeding Guidance
+
+Personalized feeding recommendations based on:
+
+- breed
+- age
+- weight
+- activity level
+
+---
+
+# 5. Target Users
+
+Primary audience:
+
+**Dog owners**
+
+More specifically:
+
+- first-time dog owners
+- young urban pet owners
+- busy professionals
+- families with pets
+
+These users are highly engaged and emotionally invested in their pets.
+
+---
+
+# 6. Core User Experience
+
+### Step 1: Add Contact
+
+User adds the WhatsApp contact:
+🐶 Perrologo
+
+---
+
+### Step 2: Welcome Message
+
+Example:
+Hola! Soy Perrologo 🐶
+
+Tu asistente para cuidar a tu perro.
+
+Puedo ayudarte con:
+
+• salud
+• entrenamiento
+• alimentación
+• comportamiento
+• recordatorios veterinarios
+
+Primero cuéntame sobre tu perro.
+
+¿Cómo se llama?
+
+---
+
+### Step 3: Create Dog Profile
+
+User answers a few questions:
+Nombre
+Raza
+Edad
+Peso
+
+Perrologo stores the profile.
+
+---
+
+### Step 4: Ongoing Interaction
+
+User asks questions anytime.
+
+Example:
+User:
+Mi perro vomitó hoy
+
+Perrologo:
+Puede tener varias causas.
+Déjame hacerte algunas preguntas...
+
+
+---
+
+# 7. Key Features (V1)
+
+Initial features should remain **simple and focused**.
+
+### 1. Dog Profiles
+Store information about each dog.
+
+---
+
+### 2. Q&A Dog Advice
+Answer dog care questions using structured veterinary knowledge.
+
+---
+
+### 3. Health Guidance
+Provide triage guidance (without replacing vets).
+
+---
+
+### 4. Training Advice
+Step-by-step behavioral guidance.
+
+---
+
+### 5. Care Reminders
+Vaccines, grooming, medication.
+
+---
+
+# 8. Monetization
+
+### 1. Subscription
+
+Premium tier:
+
+$3–$10/month
+
+
+Includes:
+
+- unlimited questions
+- personalized dog profile
+- health reminders
+- training programs
+
+---
+
+### 2. Affiliate Revenue
+
+Recommend:
+
+- dog food
+- toys
+- supplements
+- flea treatments
+
+Earn commission from sales.
+
+---
+
+### 3. Vet Referrals
+
+When issues require professional help:
+
+This may require a vet consultation.
+Would you like to book one?
+
+
+Perrologo earns referral fees.
+
+---
+
+### 4. Pet Services Marketplace (Future)
+
+Future integrations:
+
+- dog trainers
+- pet sitters
+- groomers
+- insurance providers
+
+---
+
+# 9. Growth Strategy
+
+The growth strategy relies heavily on **WhatsApp contact sharing**.
+
+Example:
+
+"If you have a dog you should add this number, it's really helpful."
+
+Dog owners naturally share resources within:
+
+- neighborhood groups
+- dog parks
+- breeder communities
+- adoption groups
+
+This creates organic distribution loops.
+
+---
+
+# 10. Why This Works
+
+Perrologo succeeds because it is:
+
+### 1. Identity-Based
+
+Targets a specific identity group: dog owners.
+
+---
+
+### 2. Emotionally Engaging
+
+Pet owners care deeply about their animals.
+
+---
+
+### 3. High Frequency Use
+
+Owners have recurring questions and needs.
+
+---
+
+### 4. Extremely Simple
+
+No apps or signups required.
+
+Just chat.
+
+---
+
+### 5. Low Operational Complexity
+
+Advice and reminders can be largely automated.
+
+---
+
+# 11. Technical Architecture
+
+Initial architecture can be simple.
+
+Core components:
+
+### Messaging Layer
+
+- WhatsApp API
+
+---
+
+### AI Layer
+
+- LLM for conversation
+- knowledge base for dog care
+
+---
+
+### Backend
+
+- user database
+- dog profile storage
+- reminder scheduling
+
+---
+
+### Safety Layer
+
+- disclaimers
+- triage detection
+- escalation when vet care is needed
+
+---
+
+# 12. MVP Development Plan
+
+### Phase 1 — Prototype
+
+Goal: validate demand.
+
+Features:
+
+- dog profiles
+- Q&A dog care assistant
+- simple reminders
+
+Launch privately.
+
+---
+
+### Phase 2 — Early Users
+
+Target:
+100–500 users
+
+
+Focus on:
+
+- improving responses
+- identifying common questions
+- building knowledge base
+
+---
+
+### Phase 3 — Monetization
+
+Introduce:
+
+- subscription
+- premium features
+
+---
+
+### Phase 4 — Scale
+
+Expand features:
+
+- vet integrations
+- training programs
+- product recommendations
+
+---
+
+# 13. Long-Term Expansion
+
+Perrologo may expand into:
+
+- full pet care platform
+- veterinary telehealth
+- pet commerce
+- dog training programs
+- insurance partnerships
+
+Eventually evolving into: AI Pet Ecosystem
+
+
+---
+
+# 14. Strategic Importance
+
+Perrologo is more than just a pet assistant.
+
+It is the **first operator in a larger system**.
+
+The larger vision is a network of **AI-native service operators delivered through messaging**.
+
+Each operator serves a specific identity group.
+
+Perrologo proves the model.
+
+---
+
+# 15. Success Metrics
+
+Key metrics to track:
+
+- weekly active users
+- average messages per user
+- retention rate
+- subscription conversion
+- viral invites
+
+These metrics determine whether the operator model is viable.
+
+---
+
+# Conclusion
+
+Perrologo is a simple but powerful concept:
+
+**An AI dog expert available instantly through WhatsApp.**
+
+By combining:
+
+- identity-based targeting
+- conversational AI
+- messaging-native distribution
+
+Perrologo has the potential to become the **default assistant for dog owners** and the first step toward a broader ecosystem of AI service operators.

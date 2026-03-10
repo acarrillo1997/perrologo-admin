@@ -1,0 +1,13 @@
+{
+  "installCommand": "cd ../.. && pnpm install --frozen-lockfile",
+  "rewrites": [
+    {
+      "source": "/health",
+      "destination": "/api/health"
+    },
+    {
+      "source": "/webhooks/kapso",
+      "destination": "/api/webhooks/kapso"
+    }
+  ]
+}
