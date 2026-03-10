@@ -14,12 +14,6 @@
     "paths": {
       "@/*": [
         "./src/*"
-      ],
-      "@perrologo/db": [
-        "../../packages/db/src/index.ts"
-      ],
-      "@perrologo/domain": [
-        "../../packages/domain/src/index.ts"
       ]
     }
   },

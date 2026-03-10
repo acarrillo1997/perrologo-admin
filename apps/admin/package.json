@@ -5,11 +5,11 @@
   "packageManager": "pnpm@10.6.1",
   "type": "module",
   "scripts": {
-    "build": "next build",
+    "build": "pnpm --filter @perrologo/domain build && pnpm --filter @perrologo/db build && next build",
     "dev": "next dev --port 3001",
-    "lint": "next typegen && tsc -p tsconfig.json --noEmit",
+    "lint": "pnpm --filter @perrologo/domain build && pnpm --filter @perrologo/db build && next typegen && tsc -p tsconfig.json --noEmit",
     "test": "vitest run",
-    "typecheck": "next typegen && tsc -p tsconfig.json --noEmit"
+    "typecheck": "pnpm --filter @perrologo/domain build && pnpm --filter @perrologo/db build && next typegen && tsc -p tsconfig.json --noEmit"
   },
   "dependencies": {
     "@perrologo/db": "workspace:*",
